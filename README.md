@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Simon-Ejilogo/uda_microserv4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Simon-Ejilogo/uda_microserv4/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Simon-Ejilogo/Microserv4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Simon-Ejilogo/Microserv4/tree/main)
 
 ###### Project Overview
 
