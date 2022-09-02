@@ -1,0 +1,10 @@
+
+(.devops) ubuntu@ip-172-31-85-106:~/udapeople-microsvc$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "uda-micr0" already exists
+NAME        READY   STATUS    RESTARTS   AGE
+uda-micr0   1/1     Running   0          4m50s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+
+
