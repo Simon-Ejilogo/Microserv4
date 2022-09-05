@@ -71,4 +71,4 @@ make lint
 
 ##### SHOUTOUT
 
-Special thanks to Udacity for providing a starter project to build on : https://github.com/udacity/DevOps_Microservices.git
+Special thanks to Udacity for providing a starter project template to build on : https://github.com/udacity/DevOps_Microservices.git
