@@ -72,3 +72,5 @@ make lint
 ##### SHOUTOUT
 
 Special thanks to Udacity for providing a starter project template to build on : https://github.com/udacity/DevOps_Microservices.git
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Simon-Ejilogo/Microserv4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Simon-Ejilogo/Microserv4/tree/master)
